@@ -1,7 +1,7 @@
 import streamlit as st
 import time as tm
 
-st.tittle('Oi, minha criança, fiz esse site para vc me responder uma :red[*SIMPLES*] perguntinha')
+st.title('Oi, minha criança, fiz esse site para vc me responder uma :red[*SIMPLES*] perguntinha')
 st.header(':red[*VOCÊ*] quer namorar :blue[*COMIGO*]?')
 if st.button(':blue[SIM]'):
   st.write('Certeza que foi de primeira 🙄')
