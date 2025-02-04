@@ -6,7 +6,7 @@ st.header(':red[VOCÊ] quer namorar :blue[comigo]?')
 if st.button(':blue[SIM]'):
   st.write('Certeza que foi de primeira 🙄')
 
-while if st.button(':red[NÃO]'):
+while st.button(':red[NÃO]'):
   st.write(':red[POQUIE NÃO?]')
   tm.time(3.0)
   st.write(':red[Achei desnecessário]')
