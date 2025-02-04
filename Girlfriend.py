@@ -8,17 +8,17 @@ if st.button(':blue[SIM]'):
 
 if st.button(':red[NÃO]'):
   st.write(':red[POQUIE NÃO?]')
-  time.time(3.0)
+  time.sleep(3)
   st.write(':red[Achei desnecessário]')
-  time.time(3.0)
+  time.sleep(3)
   st.write(':red[Vai ficar aqui para sempre]')
-  time.time(3.0)
+  time.sleep(3)
   st.write(':red[Se apertar o botão que fala sim vc sai amoi]')
-  time.time(3.0)
+  time.sleep(3)
   st.write(':red[Ainda não apertou?!]')
-  time.time(3.0)
+  time.sleep(3)
   st.write(':red[APERTA LOGO]')
-  time.time(3.0)
+  time.sleep(3)
   st.write(':red[to esperando =(]')
   
   
